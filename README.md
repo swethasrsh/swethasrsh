@@ -1,6 +1,6 @@
 ## Hi there its Swetha Suresh 👋
 
-## I am a Busniess and Technology Ethusiast
+## I am a Business and Technology Enthusiast
 
 
 - 🔭  Graduate Student at Stevens Institute of Technology
