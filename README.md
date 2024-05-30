@@ -1,7 +1,5 @@
 ## Hi there its Swetha Suresh 👋
 
-<!--
-**swethasrsh/swethasrsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -11,4 +9,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about Data Analytics, Data Visualizations, Project Management(Agile/Scrum), Busniess Process modelling, Research
 - 📫 How to reach me: ssuresh9@stevens.edu
 
--->
+
